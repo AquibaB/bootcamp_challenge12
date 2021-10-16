@@ -39,4 +39,5 @@ Later, I re-ran the regression and analysis after applying the RandomOverSampler
 ## Contributors
 
 Aquiba Benarroch, CFA
+
 aquiba.me
